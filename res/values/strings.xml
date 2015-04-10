@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saudação</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_voltar">Voltar</string>
+    <string name="action_sair">Sair</string>
+    <string name="tv_descricao">Digite sue nome</string>
+    <string name="bt_enviar">Entrar</string>
+    <string name="ed_nome_hint">Qual seu nome?</string>
+    <string name="title_activity_saudacao">Seja bem vindo</string>
+    <string name="tv_saudacao">Mostrar Saudação</string>
+    <string name="bt_voltar">Voltar</string>
+    <string name="iv_description">Sol Nascente</string>
+    <string name="title_activity_saudacao_aula">SaudacaoAulaActivity</string>
+    <string name="menu_voltar">Voltar</string>
+    <string name="title_activity_principal_aula">PrincipalAulaActivity</string>
+
+</resources>
